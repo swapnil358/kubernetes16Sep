@@ -1,1 +1,1 @@
-# K18 yaml files
+# K8s yaml files
