@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myjavaapp-container
-        image: maha4iac/myjavaapp1july22.3
+        image: maha4iac/myonlinebooking:1
         ports:
         - containerPort: 8080
